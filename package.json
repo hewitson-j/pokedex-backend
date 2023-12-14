@@ -1,0 +1,11 @@
+{
+  "name": "pokedex-backend",
+  "version": "1.0.0",
+  "description": "Backend for Pokedex app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jacob Hewitson",
+  "license": "ISC"
+}
